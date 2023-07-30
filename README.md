@@ -10,14 +10,14 @@
 
 - CRUD RESTful web-service (Java+Quarkus/MongoDB): [open-data-repository-server](https://github.com/fandreuz/open-data-repository-server)
 
-## University
+### University
 
-### High performance computing
+**High performance computing**
 
 - Parallel construction of k-d tree (C++/MPI/OpenMP): [parallel-kd-tree](https://github.com/fandreuz/parallel-kd-tree)
 - MPI/CUDA/OpenACC exercises (CUDA C/C++): [parallel-programming-for-hpc](https://github.com/fandreuz/parallel-programming-for-hpc)
 
-### Miscellaneous
+**Miscellaneous**
 
 - Genetic algorithms for traveling salesmen problem (Python/Fortran): [tsp-genetic-algorithms](https://github.com/fandreuz/tsp-genetic-algorithms)
 - Computational Physics Laboratory (Python/Fortran): [computational-physics-lab](https://github.com/fandreuz/computational-physics-lab)
