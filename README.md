@@ -1,6 +1,7 @@
 ### Scientific computing
 
 - [PyDMD](https://github.com/PyDMD/PyDMD)
+- [GLAPPO](https://github.com/PyDMD/GLAPPO)
 - Algorithms for bisimulation equivalence in directed graphs (Python+NetworkX): [BisPy](https://github.com/fandreuz/BisPy)
 - Algorithms for parallel mapped distance matrix (Python+Dask+Numba): [parallel-mapped-distance-matrix](https://github.com/fandreuz/parallel-mapped-distance-matrix)
 - Francesco's Scientific Python performance playground (Python+NumPy+SciPy): [python-performance-playground](https://github.com/fandreuz/python-performance-playground)
