@@ -22,7 +22,7 @@
 - Genetic algorithms for traveling salesmen problem (Python/Fortran): [tsp-genetic-algorithms](https://github.com/fandreuz/tsp-genetic-algorithms)
 - Computational Physics Laboratory (Python/Fortran): [computational-physics-lab](https://github.com/fandreuz/computational-physics-lab)
 - Multigrid method for resolution of PDEs (Python+NumPy+SciPy): [multigrid-pde](https://github.com/fandreuz/multigrid-pde)
-- Resolution of the Minimum Covariate Imbalance problem via LP (Python+Gurobipy+NumPy): [minimum-covariate-imbalance](https://github.com/fandreuz/minimum-covariate-imbalance)
+- Solving the Minimum Covariate Imbalance problem via LP (Python+Gurobipy+NumPy): [minimum-covariate-imbalance](https://github.com/fandreuz/minimum-covariate-imbalance)
 - Characterization of VSR via unsupervised learning (Python+sklearn): [vsr-behavior-characterization](https://github.com/fandreuz/vsr-behavior-characterization)
 - BSc thesis on bisimulation equivalence (Python/LaTeX): [bsc-thesis](https://github.com/fandreuz/bsc-thesis)
 
